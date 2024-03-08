@@ -40,6 +40,7 @@ TODO:
 - other source than OECD?
 - statistical analysis
 - visualisation
+- change this to jupyter notebook? 
 
 """
 
